@@ -1,0 +1,203 @@
+[
+  {
+    "ContainingType": "CourseBusinessWebsite.Controllers.AuthController",
+    "Method": "ChangeDecentralization",
+    "RelativePath": "api/auth/ChangeDecentralization",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "CourseBusinessWebsite.Payloads.RequestData.UserRequest.RequestChangeDecentralization",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CourseBusinessWebsite.Controllers.AuthController",
+    "Method": "ChangePassword",
+    "RelativePath": "api/auth/ChangePassword",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "CourseBusinessWebsite.Payloads.RequestData.UserRequest.RequestChangePassword",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CourseBusinessWebsite.Controllers.AuthController",
+    "Method": "ConfirmCreateNewAccount",
+    "RelativePath": "api/auth/ConfirmCreateNewAccount",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "CourseBusinessWebsite.Payloads.RequestData.UserRequest.RequestConfirmCreateAccount",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CourseBusinessWebsite.Controllers.AuthController",
+    "Method": "ConfirmCreateNewPassword",
+    "RelativePath": "api/auth/ConfirmCreateNewPassword",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "CourseBusinessWebsite.Payloads.RequestData.UserRequest.RequestConfirmCreateNewPassword",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CourseBusinessWebsite.Controllers.AuthController",
+    "Method": "ForgotPassword",
+    "RelativePath": "api/auth/ForgotPassword",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "CourseBusinessWebsite.Payloads.RequestData.UserRequest.RequestForgotPassword",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CourseBusinessWebsite.Controllers.AuthController",
+    "Method": "GetAllUsers",
+    "RelativePath": "api/auth/GetAllUsers",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Name",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "RoleID",
+        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "Email",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "pageSize",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "pageNumber",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CourseBusinessWebsite.Controllers.AuthController",
+    "Method": "GetUserByName",
+    "RelativePath": "api/auth/GetUserByName",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "name",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "input",
+        "Type": "CourseBusinessWebsite.Payloads.RequestData.UserRequest.RequestPaginationUserInput",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CourseBusinessWebsite.Controllers.AuthController",
+    "Method": "Login",
+    "RelativePath": "api/auth/Login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "CourseBusinessWebsite.Payloads.RequestData.UserRequest.RequestLogin",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CourseBusinessWebsite.Controllers.AuthController",
+    "Method": "Register",
+    "RelativePath": "api/auth/Register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "CourseBusinessWebsite.Payloads.RequestData.UserRequest.RequestRegister",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CourseBusinessWebsite.Controllers.AuthController",
+    "Method": "RenewAccessToken",
+    "RelativePath": "api/auth/RenewAccessToken",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "CourseBusinessWebsite.Payloads.RequestData.TokenRequest.RequestRenewToken",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CourseBusinessWebsite.Controllers.AuthController",
+    "Method": "UpdateUserInformation",
+    "RelativePath": "api/auth/UpdateUserInformation",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "CourseBusinessWebsite.Payloads.RequestData.UserRequest.RequestUpdateUserInformation",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

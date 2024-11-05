@@ -1,0 +1,1541 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinessWebsite.csproj|d:\\graduation project\\course business website\\coursebusineswebsite\\coursebusineswebsite\\services\\implements\\billservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinessWebsite.csproj|solutionrelative:coursebusineswebsite\\services\\implements\\billservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinessWebsite.csproj|D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\coursebusineswebsite\\entities\\billdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinessWebsite.csproj|solutionrelative:coursebusineswebsite\\entities\\billdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinessWebsite.csproj|D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\coursebusineswebsite\\payloads\\requestdata\\billrequest\\requestcreatebill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinessWebsite.csproj|solutionrelative:coursebusineswebsite\\payloads\\requestdata\\billrequest\\requestcreatebill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinessWebsite.csproj|D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\coursebusineswebsite\\entities\\bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinessWebsite.csproj|solutionrelative:coursebusineswebsite\\entities\\bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinessWebsite.csproj|D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\coursebusineswebsite\\entities\\lessonstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinessWebsite.csproj|solutionrelative:coursebusineswebsite\\entities\\lessonstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinesWebsite.csproj|D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\coursebusineswebsite\\entities\\lessonstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinesWebsite.csproj|solutionrelative:coursebusineswebsite\\entities\\lessonstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinessWebsite.csproj|D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\coursebusineswebsite\\entities\\affiliatelink.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinessWebsite.csproj|solutionrelative:coursebusineswebsite\\entities\\affiliatelink.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinessWebsite.csproj|D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\coursebusineswebsite\\services\\implements\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinessWebsite.csproj|solutionrelative:coursebusineswebsite\\services\\implements\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinessWebsite.csproj|D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\coursebusineswebsite\\services\\interfaces\\ibillservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinessWebsite.csproj|solutionrelative:coursebusineswebsite\\services\\interfaces\\ibillservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinessWebsite.csproj|D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\coursebusineswebsite\\payloads\\converters\\billconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinessWebsite.csproj|solutionrelative:coursebusineswebsite\\payloads\\converters\\billconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinessWebsite.csproj|D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\coursebusineswebsite\\payloads\\converters\\courseconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinessWebsite.csproj|solutionrelative:coursebusineswebsite\\payloads\\converters\\courseconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinessWebsite.csproj|D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\coursebusineswebsite\\payloads\\converters\\billdetailconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinessWebsite.csproj|solutionrelative:coursebusineswebsite\\payloads\\converters\\billdetailconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinessWebsite.csproj|D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\coursebusineswebsite\\payloads\\requestdata\\billdetailrequest\\requestcreatebilldetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinessWebsite.csproj|solutionrelative:coursebusineswebsite\\payloads\\requestdata\\billdetailrequest\\requestcreatebilldetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinessWebsite.csproj|D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\coursebusineswebsite\\payloads\\returndata\\billdata\\billdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinessWebsite.csproj|solutionrelative:coursebusineswebsite\\payloads\\returndata\\billdata\\billdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinessWebsite.csproj|D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\coursebusineswebsite\\payloads\\returndata\\billdetaildata\\billdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinessWebsite.csproj|solutionrelative:coursebusineswebsite\\payloads\\returndata\\billdetaildata\\billdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinessWebsite.csproj|D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\coursebusineswebsite\\services\\interfaces\\icartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinessWebsite.csproj|solutionrelative:coursebusineswebsite\\services\\interfaces\\icartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinessWebsite.csproj|D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\coursebusineswebsite\\payloads\\requestdata\\cartrequest\\requestcreatecart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinessWebsite.csproj|solutionrelative:coursebusineswebsite\\payloads\\requestdata\\cartrequest\\requestcreatecart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinessWebsite.csproj|D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\coursebusineswebsite\\entities\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinessWebsite.csproj|solutionrelative:coursebusineswebsite\\entities\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinessWebsite.csproj|D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\coursebusineswebsite\\payloads\\returndata\\cartdata\\cartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinessWebsite.csproj|solutionrelative:coursebusineswebsite\\payloads\\returndata\\cartdata\\cartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinessWebsite.csproj|D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\coursebusineswebsite\\entities\\contactadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinessWebsite.csproj|solutionrelative:coursebusineswebsite\\entities\\contactadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinessWebsite.csproj|D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\coursebusineswebsite\\payloads\\returndata\\contactadmindata\\contactadmindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinessWebsite.csproj|solutionrelative:coursebusineswebsite\\payloads\\returndata\\contactadmindata\\contactadmindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinessWebsite.csproj|D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\coursebusineswebsite\\services\\implements\\lessonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinessWebsite.csproj|solutionrelative:coursebusineswebsite\\services\\implements\\lessonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinessWebsite.csproj|D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\coursebusineswebsite\\services\\implements\\roleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinessWebsite.csproj|solutionrelative:coursebusineswebsite\\services\\implements\\roleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinessWebsite.csproj|D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\coursebusineswebsite\\services\\implements\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinessWebsite.csproj|solutionrelative:coursebusineswebsite\\services\\implements\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinessWebsite.csproj|D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\coursebusineswebsite\\payloads\\requestdata\\lessonrequest\\requestupdatelesson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinessWebsite.csproj|solutionrelative:coursebusineswebsite\\payloads\\requestdata\\lessonrequest\\requestupdatelesson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinessWebsite.csproj|D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\coursebusineswebsite\\payloads\\requestdata\\lessonrequest\\requestcreatelesson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinessWebsite.csproj|solutionrelative:coursebusineswebsite\\payloads\\requestdata\\lessonrequest\\requestcreatelesson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinessWebsite.csproj|D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\coursebusineswebsite\\entities\\lesson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinessWebsite.csproj|solutionrelative:coursebusineswebsite\\entities\\lesson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinessWebsite.csproj|D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\coursebusineswebsite\\services\\interfaces\\ilessonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinessWebsite.csproj|solutionrelative:coursebusineswebsite\\services\\interfaces\\ilessonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinessWebsite.csproj|D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\coursebusineswebsite\\payloads\\returndata\\lessondata\\lessondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinessWebsite.csproj|solutionrelative:coursebusineswebsite\\payloads\\returndata\\lessondata\\lessondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinessWebsite.csproj|D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\coursebusineswebsite\\services\\interfaces\\iroleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinessWebsite.csproj|solutionrelative:coursebusineswebsite\\services\\interfaces\\iroleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinessWebsite.csproj|D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\coursebusineswebsite\\services\\interfaces\\icourseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinessWebsite.csproj|solutionrelative:coursebusineswebsite\\services\\interfaces\\icourseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinessWebsite.csproj|D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\coursebusineswebsite\\payloads\\converters\\roleconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinessWebsite.csproj|solutionrelative:coursebusineswebsite\\payloads\\converters\\roleconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinessWebsite.csproj|D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\coursebusineswebsite\\payloads\\converters\\userconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinessWebsite.csproj|solutionrelative:coursebusineswebsite\\payloads\\converters\\userconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinessWebsite.csproj|D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\coursebusineswebsite\\payloads\\returndata\\roledata\\roledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinessWebsite.csproj|solutionrelative:coursebusineswebsite\\payloads\\returndata\\roledata\\roledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinessWebsite.csproj|D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\coursebusineswebsite\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinessWebsite.csproj|solutionrelative:coursebusineswebsite\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinessWebsite.csproj|D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\coursebusineswebsite\\services\\implements\\usercourseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinessWebsite.csproj|solutionrelative:coursebusineswebsite\\services\\implements\\usercourseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinessWebsite.csproj|D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\coursebusineswebsite\\payloads\\converters\\cartconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinessWebsite.csproj|solutionrelative:coursebusineswebsite\\payloads\\converters\\cartconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinessWebsite.csproj|D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\coursebusineswebsite\\payloads\\converters\\cartitemconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinessWebsite.csproj|solutionrelative:coursebusineswebsite\\payloads\\converters\\cartitemconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinessWebsite.csproj|D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\coursebusineswebsite\\payloads\\requestdata\\usercourserequest\\requestregistercourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinessWebsite.csproj|solutionrelative:coursebusineswebsite\\payloads\\requestdata\\usercourserequest\\requestregistercourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinessWebsite.csproj|D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\coursebusineswebsite\\payloads\\returndata\\cartitemdata\\cartitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinessWebsite.csproj|solutionrelative:coursebusineswebsite\\payloads\\returndata\\cartitemdata\\cartitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinessWebsite.csproj|D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\coursebusineswebsite\\entities\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinessWebsite.csproj|solutionrelative:coursebusineswebsite\\entities\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinessWebsite.csproj|D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\coursebusineswebsite\\payloads\\returndata\\userdata\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinessWebsite.csproj|solutionrelative:coursebusineswebsite\\payloads\\returndata\\userdata\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinessWebsite.csproj|D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\coursebusineswebsite\\payloads\\returndata\\coursedata\\coursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinessWebsite.csproj|solutionrelative:coursebusineswebsite\\payloads\\returndata\\coursedata\\coursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinesWebsite.csproj|D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\coursebusineswebsite\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinesWebsite.csproj|solutionrelative:coursebusineswebsite\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinessWebsite.csproj|D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\coursebusineswebsite\\services\\interfaces\\iusercoursesevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinessWebsite.csproj|solutionrelative:coursebusineswebsite\\services\\interfaces\\iusercoursesevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinessWebsite.csproj|D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\coursebusineswebsite\\payloads\\returndata\\usercoursedata\\usercoursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinessWebsite.csproj|solutionrelative:coursebusineswebsite\\payloads\\returndata\\usercoursedata\\usercoursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinessWebsite.csproj|D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\coursebusineswebsite\\payloads\\converters\\usercourseconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinessWebsite.csproj|solutionrelative:coursebusineswebsite\\payloads\\converters\\usercourseconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinessWebsite.csproj|D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\coursebusineswebsite\\entities\\usercourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinessWebsite.csproj|solutionrelative:coursebusineswebsite\\entities\\usercourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinesWebsite.csproj|D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\coursebusineswebsite\\entities\\usercourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinesWebsite.csproj|solutionrelative:coursebusineswebsite\\entities\\usercourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinessWebsite.csproj|D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\coursebusineswebsite\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinessWebsite.csproj|solutionrelative:coursebusineswebsite\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinessWebsite.csproj|D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\coursebusineswebsite\\controllers\\collaboratorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinessWebsite.csproj|solutionrelative:coursebusineswebsite\\controllers\\collaboratorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinessWebsite.csproj|D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\coursebusineswebsite\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinessWebsite.csproj|solutionrelative:coursebusineswebsite\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinessWebsite.csproj|D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\coursebusineswebsite\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinessWebsite.csproj|solutionrelative:coursebusineswebsite\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinessWebsite.csproj|D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\coursebusineswebsite\\payloads\\converters\\lessonconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinessWebsite.csproj|solutionrelative:coursebusineswebsite\\payloads\\converters\\lessonconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinessWebsite.csproj|D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\coursebusineswebsite\\payloads\\requestdata\\courserequest\\requestcreatecourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinessWebsite.csproj|solutionrelative:coursebusineswebsite\\payloads\\requestdata\\courserequest\\requestcreatecourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinessWebsite.csproj|D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\coursebusineswebsite\\entities\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinessWebsite.csproj|solutionrelative:coursebusineswebsite\\entities\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinesWebsite.csproj|D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\coursebusineswebsite\\entities\\lesson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinesWebsite.csproj|solutionrelative:coursebusineswebsite\\entities\\lesson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinessWebsite.csproj|D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\coursebusineswebsite\\payloads\\requestdata\\courserequest\\filter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinessWebsite.csproj|solutionrelative:coursebusineswebsite\\payloads\\requestdata\\courserequest\\filter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinessWebsite.csproj|D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\coursebusineswebsite\\payloads\\requestdata\\courserequest\\requestupdatecourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinessWebsite.csproj|solutionrelative:coursebusineswebsite\\payloads\\requestdata\\courserequest\\requestupdatecourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinessWebsite.csproj|D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\coursebusineswebsite\\payloads\\requestdata\\userrequest\\requestpaginationuserinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinessWebsite.csproj|solutionrelative:coursebusineswebsite\\payloads\\requestdata\\userrequest\\requestpaginationuserinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinessWebsite.csproj|D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\coursebusineswebsite\\payloads\\requestdata\\userrequest\\requestupdateuserinformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinessWebsite.csproj|solutionrelative:coursebusineswebsite\\payloads\\requestdata\\userrequest\\requestupdateuserinformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinessWebsite.csproj|D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\coursebusineswebsite\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinessWebsite.csproj|solutionrelative:coursebusineswebsite\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinessWebsite.csproj|D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\coursebusineswebsite\\payloads\\requestdata\\tokenrequest\\requestrenewtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinessWebsite.csproj|solutionrelative:coursebusineswebsite\\payloads\\requestdata\\tokenrequest\\requestrenewtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinessWebsite.csproj|D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\coursebusineswebsite\\payloads\\requestdata\\userrequest\\requestchangedecentralization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinessWebsite.csproj|solutionrelative:coursebusineswebsite\\payloads\\requestdata\\userrequest\\requestchangedecentralization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinessWebsite.csproj|D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\coursebusineswebsite\\payloads\\requestdata\\userrequest\\requestchangepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinessWebsite.csproj|solutionrelative:coursebusineswebsite\\payloads\\requestdata\\userrequest\\requestchangepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinessWebsite.csproj|D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\coursebusineswebsite\\payloads\\requestdata\\userrequest\\requestconfirmcreateaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinessWebsite.csproj|solutionrelative:coursebusineswebsite\\payloads\\requestdata\\userrequest\\requestconfirmcreateaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinessWebsite.csproj|D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\coursebusineswebsite\\payloads\\requestdata\\userrequest\\requestconfirmcreatenewpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinessWebsite.csproj|solutionrelative:coursebusineswebsite\\payloads\\requestdata\\userrequest\\requestconfirmcreatenewpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinessWebsite.csproj|D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\coursebusineswebsite\\payloads\\requestdata\\userrequest\\requestlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinessWebsite.csproj|solutionrelative:coursebusineswebsite\\payloads\\requestdata\\userrequest\\requestlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinessWebsite.csproj|D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\coursebusineswebsite\\payloads\\requestdata\\userrequest\\requestuserinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinessWebsite.csproj|solutionrelative:coursebusineswebsite\\payloads\\requestdata\\userrequest\\requestuserinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinessWebsite.csproj|D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\coursebusineswebsite\\payloads\\requestdata\\userrequest\\requestregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinessWebsite.csproj|solutionrelative:coursebusineswebsite\\payloads\\requestdata\\userrequest\\requestregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinesWebsite.csproj|D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\coursebusineswebsite\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinesWebsite.csproj|solutionrelative:coursebusineswebsite\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinessWebsite.csproj|D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\coursebusineswebsite\\payloads\\responses\\responseobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinessWebsite.csproj|solutionrelative:coursebusineswebsite\\payloads\\responses\\responseobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinessWebsite.csproj|D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\coursebusineswebsite\\payloads\\requestdata\\userrequest\\requestforgotpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinessWebsite.csproj|solutionrelative:coursebusineswebsite\\payloads\\requestdata\\userrequest\\requestforgotpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinessWebsite.csproj|D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\coursebusineswebsite\\payloads\\returndata\\tokendata\\tokendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinessWebsite.csproj|solutionrelative:coursebusineswebsite\\payloads\\returndata\\tokendata\\tokendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinesWebsite.csproj|D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\coursebusineswebsite\\entities\\contactadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinesWebsite.csproj|solutionrelative:coursebusineswebsite\\entities\\contactadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinessWebsite.csproj|D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\coursebusineswebsite\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinessWebsite.csproj|solutionrelative:coursebusineswebsite\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinesWebsite.csproj|D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\coursebusineswebsite\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinesWebsite.csproj|solutionrelative:coursebusineswebsite\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinesWebsite.csproj|D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\coursebusineswebsite\\entities\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinesWebsite.csproj|solutionrelative:coursebusineswebsite\\entities\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinesWebsite.csproj|D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\coursebusineswebsite\\entities\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinesWebsite.csproj|solutionrelative:coursebusineswebsite\\entities\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinesWebsite.csproj|D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\coursebusineswebsite\\entities\\billdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinesWebsite.csproj|solutionrelative:coursebusineswebsite\\entities\\billdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinesWebsite.csproj|D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\coursebusineswebsite\\entities\\bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinesWebsite.csproj|solutionrelative:coursebusineswebsite\\entities\\bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinesWebsite.csproj|D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\coursebusineswebsite\\entities\\affiliatelink.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinesWebsite.csproj|solutionrelative:coursebusineswebsite\\entities\\affiliatelink.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinessWebsite.csproj|D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\coursebusineswebsite\\handle\\paginationhandle\\pagination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinessWebsite.csproj|solutionrelative:coursebusineswebsite\\handle\\paginationhandle\\pagination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinessWebsite.csproj|D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\coursebusineswebsite\\handle\\paginationhandle\\pageresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinessWebsite.csproj|solutionrelative:coursebusineswebsite\\handle\\paginationhandle\\pageresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinessWebsite.csproj|D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\coursebusineswebsite\\handle\\imagehandle\\checkimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinessWebsite.csproj|solutionrelative:coursebusineswebsite\\handle\\imagehandle\\checkimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinessWebsite.csproj|D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\coursebusineswebsite\\handle\\generatehandle\\generatecode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinessWebsite.csproj|solutionrelative:coursebusineswebsite\\handle\\generatehandle\\generatecode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinessWebsite.csproj|D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\coursebusineswebsite\\handle\\emailhandle\\billemailtemplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinessWebsite.csproj|solutionrelative:coursebusineswebsite\\handle\\emailhandle\\billemailtemplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinessWebsite.csproj|D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\coursebusineswebsite\\handle\\emailhandle\\validate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinessWebsite.csproj|solutionrelative:coursebusineswebsite\\handle\\emailhandle\\validate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinessWebsite.csproj|D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\coursebusineswebsite\\handle\\emailhandle\\emailto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinessWebsite.csproj|solutionrelative:coursebusineswebsite\\handle\\emailhandle\\emailto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinesWebsite.csproj|D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\coursebusineswebsite\\datacontext\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinesWebsite.csproj|solutionrelative:coursebusineswebsite\\datacontext\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinesWebsite.csproj|D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\coursebusineswebsite\\entities\\confirmemail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinesWebsite.csproj|solutionrelative:coursebusineswebsite\\entities\\confirmemail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinessWebsite.csproj|D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\coursebusineswebsite\\enum\\billstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinessWebsite.csproj|solutionrelative:coursebusineswebsite\\enum\\billstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinesWebsite.csproj|D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\coursebusineswebsite\\entities\\userstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinesWebsite.csproj|solutionrelative:coursebusineswebsite\\entities\\userstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinesWebsite.csproj|D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\coursebusineswebsite\\entities\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E963B796-9F01-4916-8589-4728A2A798DC}|CourseBusinesWebsite\\CourseBusinesWebsite.csproj|solutionrelative:coursebusineswebsite\\entities\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LessonStatus.cs",
+              "DocumentMoniker": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Entities\\LessonStatus.cs",
+              "RelativeDocumentMoniker": "CourseBusinesWebsite\\Entities\\LessonStatus.cs",
+              "ToolTip": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Entities\\LessonStatus.cs",
+              "RelativeToolTip": "CourseBusinesWebsite\\Entities\\LessonStatus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T17:38:00.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BillService.cs",
+              "DocumentMoniker": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Services\\Implements\\BillService.cs",
+              "RelativeDocumentMoniker": "CourseBusinesWebsite\\Services\\Implements\\BillService.cs",
+              "ToolTip": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Services\\Implements\\BillService.cs",
+              "RelativeToolTip": "CourseBusinesWebsite\\Services\\Implements\\BillService.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAtwDIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T10:21:51.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IBillService.cs",
+              "DocumentMoniker": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Services\\Interfaces\\IBillService.cs",
+              "RelativeDocumentMoniker": "CourseBusinesWebsite\\Services\\Interfaces\\IBillService.cs",
+              "ToolTip": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Services\\Interfaces\\IBillService.cs",
+              "RelativeToolTip": "CourseBusinesWebsite\\Services\\Interfaces\\IBillService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T10:21:37.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CartService.cs",
+              "DocumentMoniker": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Services\\Implements\\CartService.cs",
+              "RelativeDocumentMoniker": "CourseBusinesWebsite\\Services\\Implements\\CartService.cs",
+              "ToolTip": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Services\\Implements\\CartService.cs",
+              "RelativeToolTip": "CourseBusinesWebsite\\Services\\Implements\\CartService.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAAA4AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T09:33:15.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AffiliateLink.cs",
+              "DocumentMoniker": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Entities\\AffiliateLink.cs",
+              "RelativeDocumentMoniker": "CourseBusinesWebsite\\Entities\\AffiliateLink.cs",
+              "ToolTip": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Entities\\AffiliateLink.cs",
+              "RelativeToolTip": "CourseBusinesWebsite\\Entities\\AffiliateLink.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T15:01:06.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LessonStatus.cs",
+              "DocumentMoniker": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Entities\\LessonStatus.cs",
+              "RelativeDocumentMoniker": "CourseBusinesWebsite\\Entities\\LessonStatus.cs",
+              "ToolTip": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Entities\\LessonStatus.cs",
+              "RelativeToolTip": "CourseBusinesWebsite\\Entities\\LessonStatus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T16:05:20.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Bill.cs",
+              "DocumentMoniker": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Entities\\Bill.cs",
+              "RelativeDocumentMoniker": "CourseBusinesWebsite\\Entities\\Bill.cs",
+              "ToolTip": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Entities\\Bill.cs",
+              "RelativeToolTip": "CourseBusinesWebsite\\Entities\\Bill.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwA0AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T15:01:08.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RequestCreateBill.cs",
+              "DocumentMoniker": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Payloads\\RequestData\\BillRequest\\RequestCreateBill.cs",
+              "RelativeDocumentMoniker": "CourseBusinesWebsite\\Payloads\\RequestData\\BillRequest\\RequestCreateBill.cs",
+              "ToolTip": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Payloads\\RequestData\\BillRequest\\RequestCreateBill.cs",
+              "RelativeToolTip": "CourseBusinesWebsite\\Payloads\\RequestData\\BillRequest\\RequestCreateBill.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T08:21:23.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BillDetail.cs",
+              "DocumentMoniker": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Entities\\BillDetail.cs",
+              "RelativeDocumentMoniker": "CourseBusinesWebsite\\Entities\\BillDetail.cs",
+              "ToolTip": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Entities\\BillDetail.cs",
+              "RelativeToolTip": "CourseBusinesWebsite\\Entities\\BillDetail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T15:01:12.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BillConverter.cs",
+              "DocumentMoniker": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Payloads\\Converters\\BillConverter.cs",
+              "RelativeDocumentMoniker": "CourseBusinesWebsite\\Payloads\\Converters\\BillConverter.cs",
+              "ToolTip": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Payloads\\Converters\\BillConverter.cs",
+              "RelativeToolTip": "CourseBusinesWebsite\\Payloads\\Converters\\BillConverter.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwB8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T10:13:54.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BillDetailConverter.cs",
+              "DocumentMoniker": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Payloads\\Converters\\BillDetailConverter.cs",
+              "RelativeDocumentMoniker": "CourseBusinesWebsite\\Payloads\\Converters\\BillDetailConverter.cs",
+              "ToolTip": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Payloads\\Converters\\BillDetailConverter.cs",
+              "RelativeToolTip": "CourseBusinesWebsite\\Payloads\\Converters\\BillDetailConverter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T10:17:01.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RequestCreateBillDetail.cs",
+              "DocumentMoniker": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Payloads\\RequestData\\BillDetailRequest\\RequestCreateBillDetail.cs",
+              "RelativeDocumentMoniker": "CourseBusinesWebsite\\Payloads\\RequestData\\BillDetailRequest\\RequestCreateBillDetail.cs",
+              "ToolTip": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Payloads\\RequestData\\BillDetailRequest\\RequestCreateBillDetail.cs",
+              "RelativeToolTip": "CourseBusinesWebsite\\Payloads\\RequestData\\BillDetailRequest\\RequestCreateBillDetail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T08:20:33.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BillDTO.cs",
+              "DocumentMoniker": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Payloads\\ReturnData\\BillData\\BillDTO.cs",
+              "RelativeDocumentMoniker": "CourseBusinesWebsite\\Payloads\\ReturnData\\BillData\\BillDTO.cs",
+              "ToolTip": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Payloads\\ReturnData\\BillData\\BillDTO.cs",
+              "RelativeToolTip": "CourseBusinesWebsite\\Payloads\\ReturnData\\BillData\\BillDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T09:55:27.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CourseConverter.cs",
+              "DocumentMoniker": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Payloads\\Converters\\CourseConverter.cs",
+              "RelativeDocumentMoniker": "CourseBusinesWebsite\\Payloads\\Converters\\CourseConverter.cs",
+              "ToolTip": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Payloads\\Converters\\CourseConverter.cs",
+              "RelativeToolTip": "CourseBusinesWebsite\\Payloads\\Converters\\CourseConverter.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAA+wBkAAAB4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T04:06:57.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RequestCreateCart.cs",
+              "DocumentMoniker": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Payloads\\RequestData\\CartRequest\\RequestCreateCart.cs",
+              "RelativeDocumentMoniker": "CourseBusinesWebsite\\Payloads\\RequestData\\CartRequest\\RequestCreateCart.cs",
+              "ToolTip": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Payloads\\RequestData\\CartRequest\\RequestCreateCart.cs",
+              "RelativeToolTip": "CourseBusinesWebsite\\Payloads\\RequestData\\CartRequest\\RequestCreateCart.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T08:04:22.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CartDTO.cs",
+              "DocumentMoniker": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Payloads\\ReturnData\\CartData\\CartDTO.cs",
+              "RelativeDocumentMoniker": "CourseBusinesWebsite\\Payloads\\ReturnData\\CartData\\CartDTO.cs",
+              "ToolTip": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Payloads\\ReturnData\\CartData\\CartDTO.cs",
+              "RelativeToolTip": "CourseBusinesWebsite\\Payloads\\ReturnData\\CartData\\CartDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T08:55:21.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CourseService.cs",
+              "DocumentMoniker": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Services\\Implements\\CourseService.cs",
+              "RelativeDocumentMoniker": "CourseBusinesWebsite\\Services\\Implements\\CourseService.cs",
+              "ToolTip": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Services\\Implements\\CourseService.cs",
+              "RelativeToolTip": "CourseBusinesWebsite\\Services\\Implements\\CourseService.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAAAEMAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T09:37:13.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ICartService.cs",
+              "DocumentMoniker": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Services\\Interfaces\\ICartService.cs",
+              "RelativeDocumentMoniker": "CourseBusinesWebsite\\Services\\Interfaces\\ICartService.cs",
+              "ToolTip": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Services\\Interfaces\\ICartService.cs",
+              "RelativeToolTip": "CourseBusinesWebsite\\Services\\Interfaces\\ICartService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T09:32:59.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BillDetailDTO.cs",
+              "DocumentMoniker": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Payloads\\ReturnData\\BillDetailData\\BillDetailDTO.cs",
+              "RelativeDocumentMoniker": "CourseBusinesWebsite\\Payloads\\ReturnData\\BillDetailData\\BillDetailDTO.cs",
+              "ToolTip": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Payloads\\ReturnData\\BillDetailData\\BillDetailDTO.cs",
+              "RelativeToolTip": "CourseBusinesWebsite\\Payloads\\ReturnData\\BillDetailData\\BillDetailDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T09:56:19.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "RoleService.cs",
+              "DocumentMoniker": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Services\\Implements\\RoleService.cs",
+              "RelativeDocumentMoniker": "CourseBusinesWebsite\\Services\\Implements\\RoleService.cs",
+              "ToolTip": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Services\\Implements\\RoleService.cs",
+              "RelativeToolTip": "CourseBusinesWebsite\\Services\\Implements\\RoleService.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAkwCAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T13:35:08.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "RequestUpdateLesson.cs",
+              "DocumentMoniker": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Payloads\\RequestData\\LessonRequest\\RequestUpdateLesson.cs",
+              "RelativeDocumentMoniker": "CourseBusinesWebsite\\Payloads\\RequestData\\LessonRequest\\RequestUpdateLesson.cs",
+              "ToolTip": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Payloads\\RequestData\\LessonRequest\\RequestUpdateLesson.cs",
+              "RelativeToolTip": "CourseBusinesWebsite\\Payloads\\RequestData\\LessonRequest\\RequestUpdateLesson.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T07:55:34.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "LessonService.cs",
+              "DocumentMoniker": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Services\\Implements\\LessonService.cs",
+              "RelativeDocumentMoniker": "CourseBusinesWebsite\\Services\\Implements\\LessonService.cs",
+              "ToolTip": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Services\\Implements\\LessonService.cs",
+              "RelativeToolTip": "CourseBusinesWebsite\\Services\\Implements\\LessonService.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAA5wEQAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T08:26:58.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Entities\\Cart.cs",
+              "RelativeDocumentMoniker": "CourseBusinesWebsite\\Entities\\Cart.cs",
+              "ToolTip": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Entities\\Cart.cs",
+              "RelativeToolTip": "CourseBusinesWebsite\\Entities\\Cart.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T15:01:25.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ContactAdminDTO.cs",
+              "DocumentMoniker": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Payloads\\ReturnData\\ContactAdminData\\ContactAdminDTO.cs",
+              "RelativeDocumentMoniker": "CourseBusinesWebsite\\Payloads\\ReturnData\\ContactAdminData\\ContactAdminDTO.cs",
+              "ToolTip": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Payloads\\ReturnData\\ContactAdminData\\ContactAdminDTO.cs",
+              "RelativeToolTip": "CourseBusinesWebsite\\Payloads\\ReturnData\\ContactAdminData\\ContactAdminDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T16:10:58.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ContactAdmin.cs",
+              "DocumentMoniker": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Entities\\ContactAdmin.cs",
+              "RelativeDocumentMoniker": "CourseBusinesWebsite\\Entities\\ContactAdmin.cs",
+              "ToolTip": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Entities\\ContactAdmin.cs",
+              "RelativeToolTip": "CourseBusinesWebsite\\Entities\\ContactAdmin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T15:01:29.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "RequestCreateLesson.cs",
+              "DocumentMoniker": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Payloads\\RequestData\\LessonRequest\\RequestCreateLesson.cs",
+              "RelativeDocumentMoniker": "CourseBusinesWebsite\\Payloads\\RequestData\\LessonRequest\\RequestCreateLesson.cs",
+              "ToolTip": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Payloads\\RequestData\\LessonRequest\\RequestCreateLesson.cs",
+              "RelativeToolTip": "CourseBusinesWebsite\\Payloads\\RequestData\\LessonRequest\\RequestCreateLesson.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T07:53:21.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Lesson.cs",
+              "DocumentMoniker": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Entities\\Lesson.cs",
+              "RelativeDocumentMoniker": "CourseBusinesWebsite\\Entities\\Lesson.cs",
+              "ToolTip": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Entities\\Lesson.cs",
+              "RelativeToolTip": "CourseBusinesWebsite\\Entities\\Lesson.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwA8AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T10:20:52.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ILessonService.cs",
+              "DocumentMoniker": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Services\\Interfaces\\ILessonService.cs",
+              "RelativeDocumentMoniker": "CourseBusinesWebsite\\Services\\Interfaces\\ILessonService.cs",
+              "ToolTip": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Services\\Interfaces\\ILessonService.cs",
+              "RelativeToolTip": "CourseBusinesWebsite\\Services\\Interfaces\\ILessonService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T07:57:55.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "RoleDTO.cs",
+              "DocumentMoniker": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Payloads\\ReturnData\\RoleData\\RoleDTO.cs",
+              "RelativeDocumentMoniker": "CourseBusinesWebsite\\Payloads\\ReturnData\\RoleData\\RoleDTO.cs",
+              "ToolTip": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Payloads\\ReturnData\\RoleData\\RoleDTO.cs",
+              "RelativeToolTip": "CourseBusinesWebsite\\Payloads\\ReturnData\\RoleData\\RoleDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T13:25:39.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "RoleConverter.cs",
+              "DocumentMoniker": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Payloads\\Converters\\RoleConverter.cs",
+              "RelativeDocumentMoniker": "CourseBusinesWebsite\\Payloads\\Converters\\RoleConverter.cs",
+              "ToolTip": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Payloads\\Converters\\RoleConverter.cs",
+              "RelativeToolTip": "CourseBusinesWebsite\\Payloads\\Converters\\RoleConverter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T13:26:58.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "LessonDTO.cs",
+              "DocumentMoniker": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Payloads\\ReturnData\\LessonData\\LessonDTO.cs",
+              "RelativeDocumentMoniker": "CourseBusinesWebsite\\Payloads\\ReturnData\\LessonData\\LessonDTO.cs",
+              "ToolTip": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Payloads\\ReturnData\\LessonData\\LessonDTO.cs",
+              "RelativeToolTip": "CourseBusinesWebsite\\Payloads\\ReturnData\\LessonData\\LessonDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T10:20:46.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IRoleService.cs",
+              "DocumentMoniker": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Services\\Interfaces\\IRoleService.cs",
+              "RelativeDocumentMoniker": "CourseBusinesWebsite\\Services\\Interfaces\\IRoleService.cs",
+              "ToolTip": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Services\\Interfaces\\IRoleService.cs",
+              "RelativeToolTip": "CourseBusinesWebsite\\Services\\Interfaces\\IRoleService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T13:31:04.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "CartConverter.cs",
+              "DocumentMoniker": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Payloads\\Converters\\CartConverter.cs",
+              "RelativeDocumentMoniker": "CourseBusinesWebsite\\Payloads\\Converters\\CartConverter.cs",
+              "ToolTip": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Payloads\\Converters\\CartConverter.cs",
+              "RelativeToolTip": "CourseBusinesWebsite\\Payloads\\Converters\\CartConverter.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBgAAAB4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T09:01:18.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ICourseService.cs",
+              "DocumentMoniker": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Services\\Interfaces\\ICourseService.cs",
+              "RelativeDocumentMoniker": "CourseBusinesWebsite\\Services\\Interfaces\\ICourseService.cs",
+              "ToolTip": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Services\\Interfaces\\ICourseService.cs",
+              "RelativeToolTip": "CourseBusinesWebsite\\Services\\Interfaces\\ICourseService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T04:09:46.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "CartItemConverter.cs",
+              "DocumentMoniker": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Payloads\\Converters\\CartItemConverter.cs",
+              "RelativeDocumentMoniker": "CourseBusinesWebsite\\Payloads\\Converters\\CartItemConverter.cs",
+              "ToolTip": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Payloads\\Converters\\CartItemConverter.cs",
+              "RelativeToolTip": "CourseBusinesWebsite\\Payloads\\Converters\\CartItemConverter.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T09:05:29.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "UserConverter.cs",
+              "DocumentMoniker": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Payloads\\Converters\\UserConverter.cs",
+              "RelativeDocumentMoniker": "CourseBusinesWebsite\\Payloads\\Converters\\UserConverter.cs",
+              "ToolTip": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Payloads\\Converters\\UserConverter.cs",
+              "RelativeToolTip": "CourseBusinesWebsite\\Payloads\\Converters\\UserConverter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T15:17:28.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "CartItemDTO.cs",
+              "DocumentMoniker": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Payloads\\ReturnData\\CartItemData\\CartItemDTO.cs",
+              "RelativeDocumentMoniker": "CourseBusinesWebsite\\Payloads\\ReturnData\\CartItemData\\CartItemDTO.cs",
+              "ToolTip": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Payloads\\ReturnData\\CartItemData\\CartItemDTO.cs",
+              "RelativeToolTip": "CourseBusinesWebsite\\Payloads\\ReturnData\\CartItemData\\CartItemDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T08:57:53.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Role.cs",
+              "DocumentMoniker": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Entities\\Role.cs",
+              "RelativeDocumentMoniker": "CourseBusinesWebsite\\Entities\\Role.cs",
+              "ToolTip": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Entities\\Role.cs",
+              "RelativeToolTip": "CourseBusinesWebsite\\Entities\\Role.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T08:47:49.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "UserCourseService.cs",
+              "DocumentMoniker": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Services\\Implements\\UserCourseService.cs",
+              "RelativeDocumentMoniker": "CourseBusinesWebsite\\Services\\Implements\\UserCourseService.cs",
+              "ToolTip": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Services\\Implements\\UserCourseService.cs",
+              "RelativeToolTip": "CourseBusinesWebsite\\Services\\Implements\\UserCourseService.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAIAwwBQAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T07:59:47.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Role.cs",
+              "DocumentMoniker": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Entities\\Role.cs",
+              "RelativeDocumentMoniker": "CourseBusinesWebsite\\Entities\\Role.cs",
+              "ToolTip": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Entities\\Role.cs",
+              "RelativeToolTip": "CourseBusinesWebsite\\Entities\\Role.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T16:03:20.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Entities\\CartItem.cs",
+              "RelativeDocumentMoniker": "CourseBusinesWebsite\\Entities\\CartItem.cs",
+              "ToolTip": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Entities\\CartItem.cs",
+              "RelativeToolTip": "CourseBusinesWebsite\\Entities\\CartItem.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T15:01:23.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "RequestRegisterCourse.cs",
+              "DocumentMoniker": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Payloads\\RequestData\\UserCourseRequest\\RequestRegisterCourse.cs",
+              "RelativeDocumentMoniker": "CourseBusinesWebsite\\Payloads\\RequestData\\UserCourseRequest\\RequestRegisterCourse.cs",
+              "ToolTip": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Payloads\\RequestData\\UserCourseRequest\\RequestRegisterCourse.cs",
+              "RelativeToolTip": "CourseBusinesWebsite\\Payloads\\RequestData\\UserCourseRequest\\RequestRegisterCourse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T07:48:43.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Payloads\\ReturnData\\UserData\\UserDTO.cs",
+              "RelativeDocumentMoniker": "CourseBusinesWebsite\\Payloads\\ReturnData\\UserData\\UserDTO.cs",
+              "ToolTip": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Payloads\\ReturnData\\UserData\\UserDTO.cs",
+              "RelativeToolTip": "CourseBusinesWebsite\\Payloads\\ReturnData\\UserData\\UserDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T11:04:00.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "UserCourseDTO.cs",
+              "DocumentMoniker": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Payloads\\ReturnData\\UserCourseData\\UserCourseDTO.cs",
+              "RelativeDocumentMoniker": "CourseBusinesWebsite\\Payloads\\ReturnData\\UserCourseData\\UserCourseDTO.cs",
+              "ToolTip": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Payloads\\ReturnData\\UserCourseData\\UserCourseDTO.cs",
+              "RelativeToolTip": "CourseBusinesWebsite\\Payloads\\ReturnData\\UserCourseData\\UserCourseDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T05:08:04.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "CourseDTO.cs",
+              "DocumentMoniker": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Payloads\\ReturnData\\CourseData\\CourseDTO.cs",
+              "RelativeDocumentMoniker": "CourseBusinesWebsite\\Payloads\\ReturnData\\CourseData\\CourseDTO.cs",
+              "ToolTip": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Payloads\\ReturnData\\CourseData\\CourseDTO.cs",
+              "RelativeToolTip": "CourseBusinesWebsite\\Payloads\\ReturnData\\CourseData\\CourseDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T03:55:13.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "UserCourseConverter.cs",
+              "DocumentMoniker": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Payloads\\Converters\\UserCourseConverter.cs",
+              "RelativeDocumentMoniker": "CourseBusinesWebsite\\Payloads\\Converters\\UserCourseConverter.cs",
+              "ToolTip": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Payloads\\Converters\\UserCourseConverter.cs",
+              "RelativeToolTip": "CourseBusinesWebsite\\Payloads\\Converters\\UserCourseConverter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T07:43:54.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "IUserCourseSevice.cs",
+              "DocumentMoniker": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Services\\Interfaces\\IUserCourseSevice.cs",
+              "RelativeDocumentMoniker": "CourseBusinesWebsite\\Services\\Interfaces\\IUserCourseSevice.cs",
+              "ToolTip": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Services\\Interfaces\\IUserCourseSevice.cs",
+              "RelativeToolTip": "CourseBusinesWebsite\\Services\\Interfaces\\IUserCourseSevice.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T07:59:29.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "UserCourse.cs",
+              "DocumentMoniker": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Entities\\UserCourse.cs",
+              "RelativeDocumentMoniker": "CourseBusinesWebsite\\Entities\\UserCourse.cs",
+              "ToolTip": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Entities\\UserCourse.cs",
+              "RelativeToolTip": "CourseBusinesWebsite\\Entities\\UserCourse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T05:08:20.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "CollaboratorController.cs",
+              "DocumentMoniker": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Controllers\\CollaboratorController.cs",
+              "RelativeDocumentMoniker": "CourseBusinesWebsite\\Controllers\\CollaboratorController.cs",
+              "ToolTip": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Controllers\\CollaboratorController.cs",
+              "RelativeToolTip": "CourseBusinesWebsite\\Controllers\\CollaboratorController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T05:05:54.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "CourseBusinesWebsite\\Controllers\\AdminController.cs",
+              "ToolTip": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "CourseBusinesWebsite\\Controllers\\AdminController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T05:01:53.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "CourseBusinesWebsite\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Controllers\\UserController.cs",
+              "RelativeToolTip": "CourseBusinesWebsite\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T05:01:20.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "LessonConverter.cs",
+              "DocumentMoniker": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Payloads\\Converters\\LessonConverter.cs",
+              "RelativeDocumentMoniker": "CourseBusinesWebsite\\Payloads\\Converters\\LessonConverter.cs",
+              "ToolTip": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Payloads\\Converters\\LessonConverter.cs",
+              "RelativeToolTip": "CourseBusinesWebsite\\Payloads\\Converters\\LessonConverter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T04:30:14.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "UserCourse.cs",
+              "DocumentMoniker": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Entities\\UserCourse.cs",
+              "RelativeDocumentMoniker": "CourseBusinesWebsite\\Entities\\UserCourse.cs",
+              "ToolTip": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Entities\\UserCourse.cs",
+              "RelativeToolTip": "CourseBusinesWebsite\\Entities\\UserCourse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T16:06:04.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "RequestCreateCourse.cs",
+              "DocumentMoniker": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Payloads\\RequestData\\CourseRequest\\RequestCreateCourse.cs",
+              "RelativeDocumentMoniker": "CourseBusinesWebsite\\Payloads\\RequestData\\CourseRequest\\RequestCreateCourse.cs",
+              "ToolTip": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Payloads\\RequestData\\CourseRequest\\RequestCreateCourse.cs",
+              "RelativeToolTip": "CourseBusinesWebsite\\Payloads\\RequestData\\CourseRequest\\RequestCreateCourse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T04:28:03.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "CourseBusinesWebsite\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "CourseBusinesWebsite\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T09:03:35.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Course.cs",
+              "DocumentMoniker": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Entities\\Course.cs",
+              "RelativeDocumentMoniker": "CourseBusinesWebsite\\Entities\\Course.cs",
+              "ToolTip": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Entities\\Course.cs",
+              "RelativeToolTip": "CourseBusinesWebsite\\Entities\\Course.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T07:44:10.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "Lesson.cs",
+              "DocumentMoniker": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Entities\\Lesson.cs",
+              "RelativeDocumentMoniker": "CourseBusinesWebsite\\Entities\\Lesson.cs",
+              "ToolTip": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Entities\\Lesson.cs",
+              "RelativeToolTip": "CourseBusinesWebsite\\Entities\\Lesson.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T16:05:05.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "Filter.cs",
+              "DocumentMoniker": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Payloads\\RequestData\\CourseRequest\\Filter.cs",
+              "RelativeDocumentMoniker": "CourseBusinesWebsite\\Payloads\\RequestData\\CourseRequest\\Filter.cs",
+              "ToolTip": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Payloads\\RequestData\\CourseRequest\\Filter.cs",
+              "RelativeToolTip": "CourseBusinesWebsite\\Payloads\\RequestData\\CourseRequest\\Filter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T07:27:45.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "RequestUpdateCourse.cs",
+              "DocumentMoniker": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Payloads\\RequestData\\CourseRequest\\RequestUpdateCourse.cs",
+              "RelativeDocumentMoniker": "CourseBusinesWebsite\\Payloads\\RequestData\\CourseRequest\\RequestUpdateCourse.cs",
+              "ToolTip": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Payloads\\RequestData\\CourseRequest\\RequestUpdateCourse.cs",
+              "RelativeToolTip": "CourseBusinesWebsite\\Payloads\\RequestData\\CourseRequest\\RequestUpdateCourse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T07:09:39.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "RequestPaginationUserInput.cs",
+              "DocumentMoniker": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Payloads\\RequestData\\UserRequest\\RequestPaginationUserInput.cs",
+              "RelativeDocumentMoniker": "CourseBusinesWebsite\\Payloads\\RequestData\\UserRequest\\RequestPaginationUserInput.cs",
+              "ToolTip": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Payloads\\RequestData\\UserRequest\\RequestPaginationUserInput.cs",
+              "RelativeToolTip": "CourseBusinesWebsite\\Payloads\\RequestData\\UserRequest\\RequestPaginationUserInput.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T09:06:59.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "RequestRenewToken.cs",
+              "DocumentMoniker": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Payloads\\RequestData\\TokenRequest\\RequestRenewToken.cs",
+              "RelativeDocumentMoniker": "CourseBusinesWebsite\\Payloads\\RequestData\\TokenRequest\\RequestRenewToken.cs",
+              "ToolTip": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Payloads\\RequestData\\TokenRequest\\RequestRenewToken.cs",
+              "RelativeToolTip": "CourseBusinesWebsite\\Payloads\\RequestData\\TokenRequest\\RequestRenewToken.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T15:40:24.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "RequestUpdateUserInformation.cs",
+              "DocumentMoniker": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Payloads\\RequestData\\UserRequest\\RequestUpdateUserInformation.cs",
+              "RelativeDocumentMoniker": "CourseBusinesWebsite\\Payloads\\RequestData\\UserRequest\\RequestUpdateUserInformation.cs",
+              "ToolTip": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Payloads\\RequestData\\UserRequest\\RequestUpdateUserInformation.cs",
+              "RelativeToolTip": "CourseBusinesWebsite\\Payloads\\RequestData\\UserRequest\\RequestUpdateUserInformation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T13:25:53.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "CourseBusinesWebsite\\Entities\\User.cs",
+              "ToolTip": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Entities\\User.cs",
+              "RelativeToolTip": "CourseBusinesWebsite\\Entities\\User.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAA/wBcAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T16:02:25.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "RequestChangeDecentralization.cs",
+              "DocumentMoniker": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Payloads\\RequestData\\UserRequest\\RequestChangeDecentralization.cs",
+              "RelativeDocumentMoniker": "CourseBusinesWebsite\\Payloads\\RequestData\\UserRequest\\RequestChangeDecentralization.cs",
+              "ToolTip": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Payloads\\RequestData\\UserRequest\\RequestChangeDecentralization.cs",
+              "RelativeToolTip": "CourseBusinesWebsite\\Payloads\\RequestData\\UserRequest\\RequestChangeDecentralization.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T13:24:05.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "RequestChangePassword.cs",
+              "DocumentMoniker": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Payloads\\RequestData\\UserRequest\\RequestChangePassword.cs",
+              "RelativeDocumentMoniker": "CourseBusinesWebsite\\Payloads\\RequestData\\UserRequest\\RequestChangePassword.cs",
+              "ToolTip": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Payloads\\RequestData\\UserRequest\\RequestChangePassword.cs",
+              "RelativeToolTip": "CourseBusinesWebsite\\Payloads\\RequestData\\UserRequest\\RequestChangePassword.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T13:16:57.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "RequestConfirmCreateAccount.cs",
+              "DocumentMoniker": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Payloads\\RequestData\\UserRequest\\RequestConfirmCreateAccount.cs",
+              "RelativeDocumentMoniker": "CourseBusinesWebsite\\Payloads\\RequestData\\UserRequest\\RequestConfirmCreateAccount.cs",
+              "ToolTip": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Payloads\\RequestData\\UserRequest\\RequestConfirmCreateAccount.cs",
+              "RelativeToolTip": "CourseBusinesWebsite\\Payloads\\RequestData\\UserRequest\\RequestConfirmCreateAccount.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T13:24:38.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "RequestConfirmCreateNewPassword.cs",
+              "DocumentMoniker": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Payloads\\RequestData\\UserRequest\\RequestConfirmCreateNewPassword.cs",
+              "RelativeDocumentMoniker": "CourseBusinesWebsite\\Payloads\\RequestData\\UserRequest\\RequestConfirmCreateNewPassword.cs",
+              "ToolTip": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Payloads\\RequestData\\UserRequest\\RequestConfirmCreateNewPassword.cs",
+              "RelativeToolTip": "CourseBusinesWebsite\\Payloads\\RequestData\\UserRequest\\RequestConfirmCreateNewPassword.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T13:25:08.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "RequestLogin.cs",
+              "DocumentMoniker": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Payloads\\RequestData\\UserRequest\\RequestLogin.cs",
+              "RelativeDocumentMoniker": "CourseBusinesWebsite\\Payloads\\RequestData\\UserRequest\\RequestLogin.cs",
+              "ToolTip": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Payloads\\RequestData\\UserRequest\\RequestLogin.cs",
+              "RelativeToolTip": "CourseBusinesWebsite\\Payloads\\RequestData\\UserRequest\\RequestLogin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T11:08:42.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "RequestUserInput.cs",
+              "DocumentMoniker": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Payloads\\RequestData\\UserRequest\\RequestUserInput.cs",
+              "RelativeDocumentMoniker": "CourseBusinesWebsite\\Payloads\\RequestData\\UserRequest\\RequestUserInput.cs",
+              "ToolTip": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Payloads\\RequestData\\UserRequest\\RequestUserInput.cs",
+              "RelativeToolTip": "CourseBusinesWebsite\\Payloads\\RequestData\\UserRequest\\RequestUserInput.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T15:34:57.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "RequestRegister.cs",
+              "DocumentMoniker": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Payloads\\RequestData\\UserRequest\\RequestRegister.cs",
+              "RelativeDocumentMoniker": "CourseBusinesWebsite\\Payloads\\RequestData\\UserRequest\\RequestRegister.cs",
+              "ToolTip": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Payloads\\RequestData\\UserRequest\\RequestRegister.cs",
+              "RelativeToolTip": "CourseBusinesWebsite\\Payloads\\RequestData\\UserRequest\\RequestRegister.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T11:08:28.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "ResponseObject.cs",
+              "DocumentMoniker": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Payloads\\Responses\\ResponseObject.cs",
+              "RelativeDocumentMoniker": "CourseBusinesWebsite\\Payloads\\Responses\\ResponseObject.cs",
+              "ToolTip": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Payloads\\Responses\\ResponseObject.cs",
+              "RelativeToolTip": "CourseBusinesWebsite\\Payloads\\Responses\\ResponseObject.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwBYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T10:22:51.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "CourseBusinesWebsite\\Entities\\User.cs",
+              "ToolTip": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Entities\\User.cs",
+              "RelativeToolTip": "CourseBusinesWebsite\\Entities\\User.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAiwB4AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T16:01:51.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "RequestForgotPassword.cs",
+              "DocumentMoniker": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Payloads\\RequestData\\UserRequest\\RequestForgotPassword.cs",
+              "RelativeDocumentMoniker": "CourseBusinesWebsite\\Payloads\\RequestData\\UserRequest\\RequestForgotPassword.cs",
+              "ToolTip": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Payloads\\RequestData\\UserRequest\\RequestForgotPassword.cs",
+              "RelativeToolTip": "CourseBusinesWebsite\\Payloads\\RequestData\\UserRequest\\RequestForgotPassword.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T11:09:20.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "TokenDTO.cs",
+              "DocumentMoniker": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Payloads\\ReturnData\\TokenData\\TokenDTO.cs",
+              "RelativeDocumentMoniker": "CourseBusinesWebsite\\Payloads\\ReturnData\\TokenData\\TokenDTO.cs",
+              "ToolTip": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Payloads\\ReturnData\\TokenData\\TokenDTO.cs",
+              "RelativeToolTip": "CourseBusinesWebsite\\Payloads\\ReturnData\\TokenData\\TokenDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T15:26:22.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "CourseBusinesWebsite\\Entities\\Category.cs",
+              "ToolTip": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Entities\\Category.cs",
+              "RelativeToolTip": "CourseBusinesWebsite\\Entities\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T15:01:27.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Entities\\CartItem.cs",
+              "RelativeDocumentMoniker": "CourseBusinesWebsite\\Entities\\CartItem.cs",
+              "ToolTip": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Entities\\CartItem.cs",
+              "RelativeToolTip": "CourseBusinesWebsite\\Entities\\CartItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T16:08:53.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "Bill.cs",
+              "DocumentMoniker": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Entities\\Bill.cs",
+              "RelativeDocumentMoniker": "CourseBusinesWebsite\\Entities\\Bill.cs",
+              "ToolTip": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Entities\\Bill.cs",
+              "RelativeToolTip": "CourseBusinesWebsite\\Entities\\Bill.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBQAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T16:08:24.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "ContactAdmin.cs",
+              "DocumentMoniker": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Entities\\ContactAdmin.cs",
+              "RelativeDocumentMoniker": "CourseBusinesWebsite\\Entities\\ContactAdmin.cs",
+              "ToolTip": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Entities\\ContactAdmin.cs",
+              "RelativeToolTip": "CourseBusinesWebsite\\Entities\\ContactAdmin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T16:04:05.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "AffiliateLink.cs",
+              "DocumentMoniker": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Entities\\AffiliateLink.cs",
+              "RelativeDocumentMoniker": "CourseBusinesWebsite\\Entities\\AffiliateLink.cs",
+              "ToolTip": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Entities\\AffiliateLink.cs",
+              "RelativeToolTip": "CourseBusinesWebsite\\Entities\\AffiliateLink.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T16:04:46.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "CourseBusinesWebsite\\Entities\\Category.cs",
+              "ToolTip": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Entities\\Category.cs",
+              "RelativeToolTip": "CourseBusinesWebsite\\Entities\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T16:05:48.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Entities\\Cart.cs",
+              "RelativeDocumentMoniker": "CourseBusinesWebsite\\Entities\\Cart.cs",
+              "ToolTip": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Entities\\Cart.cs",
+              "RelativeToolTip": "CourseBusinesWebsite\\Entities\\Cart.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T16:08:18.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "BillDetail.cs",
+              "DocumentMoniker": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Entities\\BillDetail.cs",
+              "RelativeDocumentMoniker": "CourseBusinesWebsite\\Entities\\BillDetail.cs",
+              "ToolTip": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Entities\\BillDetail.cs",
+              "RelativeToolTip": "CourseBusinesWebsite\\Entities\\BillDetail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T16:08:35.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "Pagination.cs",
+              "DocumentMoniker": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Handle\\PaginationHandle\\Pagination.cs",
+              "RelativeDocumentMoniker": "CourseBusinesWebsite\\Handle\\PaginationHandle\\Pagination.cs",
+              "ToolTip": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Handle\\PaginationHandle\\Pagination.cs",
+              "RelativeToolTip": "CourseBusinesWebsite\\Handle\\PaginationHandle\\Pagination.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T10:51:52.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "PageResult.cs",
+              "DocumentMoniker": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Handle\\PaginationHandle\\PageResult.cs",
+              "RelativeDocumentMoniker": "CourseBusinesWebsite\\Handle\\PaginationHandle\\PageResult.cs",
+              "ToolTip": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Handle\\PaginationHandle\\PageResult.cs",
+              "RelativeToolTip": "CourseBusinesWebsite\\Handle\\PaginationHandle\\PageResult.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAYwA8AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T10:51:30.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "CheckImage.cs",
+              "DocumentMoniker": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Handle\\ImageHandle\\CheckImage.cs",
+              "RelativeDocumentMoniker": "CourseBusinesWebsite\\Handle\\ImageHandle\\CheckImage.cs",
+              "ToolTip": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Handle\\ImageHandle\\CheckImage.cs",
+              "RelativeToolTip": "CourseBusinesWebsite\\Handle\\ImageHandle\\CheckImage.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwBAAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T10:48:26.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "GenerateCode.cs",
+              "DocumentMoniker": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Handle\\GenerateHandle\\GenerateCode.cs",
+              "RelativeDocumentMoniker": "CourseBusinesWebsite\\Handle\\GenerateHandle\\GenerateCode.cs",
+              "ToolTip": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Handle\\GenerateHandle\\GenerateCode.cs",
+              "RelativeToolTip": "CourseBusinesWebsite\\Handle\\GenerateHandle\\GenerateCode.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T10:46:14.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "BillEmailTemplate.cs",
+              "DocumentMoniker": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Handle\\EmailHandle\\BillEmailTemplate.cs",
+              "RelativeDocumentMoniker": "CourseBusinesWebsite\\Handle\\EmailHandle\\BillEmailTemplate.cs",
+              "ToolTip": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Handle\\EmailHandle\\BillEmailTemplate.cs",
+              "RelativeToolTip": "CourseBusinesWebsite\\Handle\\EmailHandle\\BillEmailTemplate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T10:35:18.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "Validate.cs",
+              "DocumentMoniker": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Handle\\EmailHandle\\Validate.cs",
+              "RelativeDocumentMoniker": "CourseBusinesWebsite\\Handle\\EmailHandle\\Validate.cs",
+              "ToolTip": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Handle\\EmailHandle\\Validate.cs",
+              "RelativeToolTip": "CourseBusinesWebsite\\Handle\\EmailHandle\\Validate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T10:34:46.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "EmailTo.cs",
+              "DocumentMoniker": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Handle\\EmailHandle\\EmailTo.cs",
+              "RelativeDocumentMoniker": "CourseBusinesWebsite\\Handle\\EmailHandle\\EmailTo.cs",
+              "ToolTip": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Handle\\EmailHandle\\EmailTo.cs",
+              "RelativeToolTip": "CourseBusinesWebsite\\Handle\\EmailHandle\\EmailTo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T10:34:33.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "UserStatus.cs",
+              "DocumentMoniker": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Entities\\UserStatus.cs",
+              "RelativeDocumentMoniker": "CourseBusinesWebsite\\Entities\\UserStatus.cs",
+              "ToolTip": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Entities\\UserStatus.cs",
+              "RelativeToolTip": "CourseBusinesWebsite\\Entities\\UserStatus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T17:00:51.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "ConfirmEmail.cs",
+              "DocumentMoniker": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Entities\\ConfirmEmail.cs",
+              "RelativeDocumentMoniker": "CourseBusinesWebsite\\Entities\\ConfirmEmail.cs",
+              "ToolTip": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Entities\\ConfirmEmail.cs",
+              "RelativeToolTip": "CourseBusinesWebsite\\Entities\\ConfirmEmail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T16:02:23.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\DataContext\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "CourseBusinesWebsite\\DataContext\\AppDbContext.cs",
+              "ToolTip": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\DataContext\\AppDbContext.cs",
+              "RelativeToolTip": "CourseBusinesWebsite\\DataContext\\AppDbContext.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwAMAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T08:19:12.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "RefreshToken.cs",
+              "DocumentMoniker": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Entities\\RefreshToken.cs",
+              "RelativeDocumentMoniker": "CourseBusinesWebsite\\Entities\\RefreshToken.cs",
+              "ToolTip": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Entities\\RefreshToken.cs",
+              "RelativeToolTip": "CourseBusinesWebsite\\Entities\\RefreshToken.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T16:03:34.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "BillStatus.cs",
+              "DocumentMoniker": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Enum\\BillStatus.cs",
+              "RelativeDocumentMoniker": "CourseBusinesWebsite\\Enum\\BillStatus.cs",
+              "ToolTip": "D:\\Graduation project\\Course business website\\CourseBusinesWebsite\\CourseBusinesWebsite\\Enum\\BillStatus.cs",
+              "RelativeToolTip": "CourseBusinesWebsite\\Enum\\BillStatus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T16:22:29.138Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
