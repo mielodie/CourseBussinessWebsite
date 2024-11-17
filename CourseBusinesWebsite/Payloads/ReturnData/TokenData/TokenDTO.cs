@@ -2,7 +2,7 @@
 
 namespace CourseBusinessWebsite.Payloads.ReturnData.TokenData
 {
-    public class TokenDTO
+    public class TokenDTO : BaseDTO
     {
         public string AccessToken { get; set; }
         public string RefreshToken { get; set; }

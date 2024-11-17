@@ -9,6 +9,7 @@ namespace CourseBusinessWebsite.Payloads.Converters
         {
             return new LessonDTO
             {
+                ID = lesson.ID,
                 ContentURL = lesson.ContentURL,
                 CreateAt = lesson.CreateAt,
                 Duration = lesson.Duration, 

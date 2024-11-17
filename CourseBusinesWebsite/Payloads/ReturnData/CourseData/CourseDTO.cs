@@ -3,7 +3,7 @@ using CourseBusinessWebsite.Payloads.ReturnData.LessonData;
 
 namespace CourseBusinessWebsite.Payloads.ReturnData.CourseData
 {
-    public class CourseDTO
+    public class CourseDTO : BaseDTO
     {
         public string Title { get; set; }
         public string Description { get; set; }

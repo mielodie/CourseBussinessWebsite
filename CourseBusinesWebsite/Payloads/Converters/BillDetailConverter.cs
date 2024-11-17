@@ -9,6 +9,7 @@ namespace CourseBusinessWebsite.Payloads.Converters
         {
             return new BillDetailDTO
             {
+                ID = billDetail.ID,
                 CourseID = billDetail.CourseID,
                 UnitPrice = billDetail.UnitPrice
             };

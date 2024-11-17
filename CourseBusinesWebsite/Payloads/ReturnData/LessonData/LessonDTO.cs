@@ -1,6 +1,6 @@
 ﻿namespace CourseBusinessWebsite.Payloads.ReturnData.LessonData
 {
-    public class LessonDTO
+    public class LessonDTO : BaseDTO
     {
         public string LessonName { get; set; }
         public string ContentURL { get; set; }

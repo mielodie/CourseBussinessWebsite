@@ -2,7 +2,7 @@
 
 namespace CourseBusinessWebsite.Payloads.ReturnData.BillData
 {
-    public class BillDTO
+    public class BillDTO : BaseDTO
     {
         public int UserID { get; set; }
         public string StatusName { get; set; }

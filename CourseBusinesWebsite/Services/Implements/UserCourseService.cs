@@ -30,7 +30,7 @@ namespace CourseBusinessWebsite.Services.Implements
             {
                 return _responseObjectUserCourseDTO.ResponseError(StatusCodes.Status404NotFound, "Khóa học này bạn chưa đăng ký", null);
             }
-            return _responseObjectUserCourseDTO.ResponseSuccess("Khóa học này bạn chưa đăng ký", null);
+            return _responseObjectUserCourseDTO.ResponseSuccess("Khóa học này bạn chưa đăng ký", _converter.EntityToDTO(userCourse));
         }
 
         public async Task<PageResult<UserCourseDTO>> GetCourseByUserID(int userID, int pageSize, int pageNumber)

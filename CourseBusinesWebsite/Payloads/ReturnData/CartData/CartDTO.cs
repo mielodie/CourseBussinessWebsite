@@ -3,7 +3,7 @@ using CourseBusinessWebsite.Payloads.ReturnData.CartItemData;
 
 namespace CourseBusinessWebsite.Payloads.ReturnData.CartData
 {
-    public class CartDTO
+    public class CartDTO : BaseDTO
     {
         public int UserID { get; set; }
         public DateTime CreateAt { get; set; }

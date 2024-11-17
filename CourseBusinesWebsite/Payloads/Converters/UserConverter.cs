@@ -9,6 +9,7 @@ namespace CourseBusinessWebsite.Payloads.Converters
         {
             return new UserDTO
             {
+                ID = user.ID,
                 Email = user.Email,
                 Address = user.Address,
                 Avatar = user.Avatar,

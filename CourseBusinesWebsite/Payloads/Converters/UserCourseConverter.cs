@@ -9,6 +9,7 @@ namespace CourseBusinessWebsite.Payloads.Converters
         {
             return new UserCourseDTO()
             {
+                ID = userCourse.ID,
                 CourseID = userCourse.CourseID,
                 CourseRegistrationPeriod = userCourse.CourseRegistrationPeriod,
                 IsCompleted = userCourse.IsCompleted,

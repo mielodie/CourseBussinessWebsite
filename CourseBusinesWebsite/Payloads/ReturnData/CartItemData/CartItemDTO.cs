@@ -1,6 +1,6 @@
 ﻿namespace CourseBusinessWebsite.Payloads.ReturnData.CartItemData
 {
-    public class CartItemDTO
+    public class CartItemDTO : BaseDTO
     {
         public string CourseTitle { get; set; }
         public int Quantity { get; set; }

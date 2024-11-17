@@ -1,6 +1,6 @@
 ﻿namespace CourseBusinessWebsite.Payloads.ReturnData.RoleData
 {
-    public class RoleDTO
+    public class RoleDTO : BaseDTO
     {
         public string RoleName { get; set; }
     }

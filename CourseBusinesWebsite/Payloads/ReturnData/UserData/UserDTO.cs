@@ -1,6 +1,6 @@
 ﻿namespace CourseBusinessWebsite.Payloads.ReturnData.UserData
 {
-    public class UserDTO
+    public class UserDTO : BaseDTO
     {
         public string Username { get; set; }
         public string FullName { get; set; }

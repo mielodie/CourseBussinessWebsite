@@ -17,6 +17,7 @@ namespace CourseBusinessWebsite.Payloads.Converters
         {
             return new CourseDTO
             {
+                ID = course.ID,
                 AvatarCourse = course.AvatarCourse,
                 Creator = course.Creator,
                 Description = course.Description,

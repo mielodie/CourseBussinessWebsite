@@ -9,11 +9,14 @@ namespace CourseBusinessWebsite.DataContext
         {
 
         }
+        public DbSet<AffiliateLink> affiliateLinks { get; set; }
         public DbSet<Bill> bills { get; set; }
         public DbSet<BillDetail> billDetails { get; set; }
         public DbSet<Cart> carts { get; set; }
         public DbSet<CartItem> cartItems { get; set; }
         public DbSet<Category> categories { get; set; }
+        public DbSet<Commission> commissions { get; set; }
+        public DbSet<CommissionPercent> commissionPercents { get; set; }
         public DbSet<ConfirmEmail> confirmEmails { get; set; }
         public DbSet<ContactAdmin> contactAdmins { get; set; }
         public DbSet<Course> courses { get; set; }
@@ -26,7 +29,7 @@ namespace CourseBusinessWebsite.DataContext
         public DbSet<UserStatus> userStatuses { get; set; }
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer("server = MIMOHON\\SQLEXPRESS; database=CourseBusinessWebsite; integrated security = sspi; encrypt = true; trustservercertificate = true;");
+            optionsBuilder.UseSqlServer("server = MIMOHON\\SQLEXPRESS; database=CBW; integrated security = sspi; encrypt = true; trustservercertificate = true;");
         }
     }
 }
