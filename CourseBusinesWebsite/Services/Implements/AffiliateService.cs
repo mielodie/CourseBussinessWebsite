@@ -23,7 +23,7 @@ namespace CourseBusinessWebsite.Services.Implements
             _converter = converter;
         }
 
-        public async Task<ResponseObject<AffiliateLinkDTO>> CreateAffiliateLink(RequestCreateAffiliateLink request)
+        public async Task<ResponseObject<AffiliateLinkDTO>> CreateAffiliateLink(int usedID, RequestCreateAffiliateLink request)
         {
             Course course = await _context.courses.FirstOrDefaultAsync(x => x.ID == request.CourseID);
             if(course is null)

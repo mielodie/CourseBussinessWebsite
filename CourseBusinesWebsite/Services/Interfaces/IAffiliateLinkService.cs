@@ -7,7 +7,7 @@ namespace CourseBusinessWebsite.Services.Interfaces
 {
     public interface IAffiliateLinkService
     {
-        Task<ResponseObject<AffiliateLinkDTO>> CreateAffiliateLink(RequestCreateAffiliateLink request);
+        Task<ResponseObject<AffiliateLinkDTO>> CreateAffiliateLink(int usedID, RequestCreateAffiliateLink request);
         Task<ResponseObject<AffiliateLinkDTO>> GetByID(int affiliateLinkID);
         Task<PageResult<AffiliateLinkDTO>> GetAll(int pageSize, int pageNumber);
     }

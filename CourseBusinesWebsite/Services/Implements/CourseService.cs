@@ -24,7 +24,7 @@ namespace CourseBusinessWebsite.Services.Implements
             _context = new AppDbContext();
         }
 
-        public async Task<ResponseObject<CourseDTO>> CreateCourse(RequestCreateCourse request)
+        public async Task<ResponseObject<CourseDTO>> CreateCourse(int userID, RequestCreateCourse request)
         {
             Category category = await _context.categories.SingleOrDefaultAsync(x => x.ID == request.CategoryID);
             if(category == null)
@@ -35,7 +35,7 @@ namespace CourseBusinessWebsite.Services.Implements
             {
                 AvatarCourse = await UploadImage.Upfile(request.AvatarCourse),
                 CategoryID = request.CategoryID,
-                Creator = request.Creator,
+                Creator = _context.users.SingleOrDefaultAsync(x => x.ID == userID).Result.FullName,
                 Price = request.Price,
                 Duration = request.Duration,
                 Description = request.Description,

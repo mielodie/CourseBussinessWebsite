@@ -10,7 +10,6 @@ namespace CourseBusinessWebsite.Payloads.RequestData.CourseRequest
         [DataType(DataType.Upload)]
         public IFormFile AvatarCourse { get; set; }
         public int Duration { get; set; }
-        public string Creator { get; set; }
         public int CategoryID { get; set; }
     }
 }
